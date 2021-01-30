@@ -1,0 +1,43 @@
+{
+    "usuario":[
+         {
+            "nome": "Natalia",
+            "email": "natalia@gmail.com",
+            "senha": "1234",
+            "cpf": "123456789-00",
+            "id": 1
+        },
+            {
+            "nome": "Fernanda",
+            "email": "fernanda@gmail.com",
+            "senha": "5678",
+            "cpf": "987654321-00",
+            "id": 2
+        },   
+        {
+            "nome": "Carolina",
+            "email": "carol@gmail.com",
+            "senha": "9102",
+            "cpf": "12121212121-00",
+            "id": 3
+        }
+        
+    ],
+    "contas":[
+        {
+            "saldo": 1000,
+            "idUsusario": 1,
+            "id": 1
+        },
+        {
+            "saldo": 10000,
+            "idUsusario": 2,
+            "id": 2
+        },
+        {
+            "saldo": 100000,
+            "idUsusario": 3,
+            "id": 3
+        }
+    ]
+}
