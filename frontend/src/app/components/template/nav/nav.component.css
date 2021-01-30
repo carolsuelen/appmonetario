@@ -1,10 +1,10 @@
 .sidenav {
-    background-color: rgb(194, 189, 189);
+    background-color: rgb(224, 220, 220);
     width: 200px;
 }
 
 .sidenav a {
-    color: #FFF;
+    color: rgb(15, 15, 15);
 }
 
 .sidenav i {
